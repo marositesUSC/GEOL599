@@ -1,0 +1,319 @@
+﻿original_Zip Code,original_Type,original_City,city_lat,city_lon,lat,lon,formatted,name,postcode,suburb,city,county,state,state_code,country,country_code,confidence,confidence_city_level,attribution,attribution_license,attribution_url
+30901,Standard,Augusta,33.473499,-82.010513,33.46323832,-81.97113649,"Augusta, GA 30901, United States of America",,30901,,Augusta,Richmond County,Georgia,GA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+30904,Standard,Augusta,33.473499,-82.010513,33.47536329,-82.00921986,"Augusta, GA 30904, United States of America",,30904,,Augusta,Richmond County,Georgia,GA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+30905,Standard,Augusta,33.473499,-82.010513,33.4068759,-82.12504152,"Augusta, GA 30905, United States of America",,30905,,Augusta,Richmond County,Georgia,GA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+30906,Standard,Augusta,33.473499,-82.010513,33.40085251,-82.03151823,"Augusta, GA 30906, United States of America",,30906,,Augusta,Richmond County,Georgia,GA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+30907,Standard,Augusta,33.473499,-82.010513,33.51599252,-82.09201359,"Columbia County, GA 30907, United States of America",,30907,,,Columbia County,Georgia,GA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+30909,Standard,Augusta,33.473499,-82.010513,33.48149744,-82.06245731,"Augusta, GA 30909, United States of America",,30909,,Augusta,Richmond County,Georgia,GA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+30911,Standard,Augusta,33.473499,-82.010513,,,,,,,,,,,,,,,,,
+30913,Standard,Augusta,33.473499,-82.010513,33.471585,-82.227655,"Columbia County, GA 30913, United States of America",,30913,,,Columbia County,Georgia,GA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+30912,Unique,Augusta,33.473499,-82.010513,33.47086154,-81.98866604,"Augusta, GA 30912, United States of America",,30912,,Augusta,Richmond County,Georgia,GA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+30999,Unique,Augusta,33.473499,-82.010513,33.4667,-82.0167,,,,,,,,,,,,,,,
+30903,PO Box,Augusta,33.473499,-82.010513,33.490148,-82.162688,"Columbia County, GA 30903, United States of America",30903,30903,,,Columbia County,Georgia,GA,United States,us,1,1,,,https://www.whosonfirst.org/docs/licenses/
+30914,PO Box,Augusta,33.473499,-82.010513,,,,,,,,,,,,,,,,,
+30916,PO Box,Augusta,33.473499,-82.010513,,,,,,,,,,,,,,,,,
+30917,PO Box,Augusta,33.473499,-82.010513,,,,,,,,,,,,,,,,,
+30919,PO Box,Augusta,33.473499,-82.010513,,,,,,,,,,,,,,,,,
+29407,Standard,Charleston,32.776474,-79.931053,32.79761906,-80.00320653,"Charleston, SC 29407, United States of America",,29407,,Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29414,Standard,Charleston,32.776474,-79.931053,32.81861574,-80.05358935,"Charleston, SC 29414, United States of America",,29414,,Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29403,Standard,Charleston,32.776474,-79.931053,32.89903614,-80.04513947,"North Charleston, SC 29403, United States of America",,29403,,North Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29412,Standard,Charleston,32.776474,-79.931053,32.73533515,-79.95708024,"Charleston, SC 29412, United States of America",,29412,,Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29401,Standard,Charleston,32.776474,-79.931053,32.78001065,-79.93483318,"Charleston, SC 29401, United States of America",,29401,,Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29492,Standard,Charleston,32.776474,-79.931053,32.92769661,-79.89697312,"Berkeley County, SC 29492, United States of America",,29492,,,Berkeley County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29406,Standard,Charleston,32.776474,-79.931053,32.92837011,-80.02758922,"North Charleston, SC 29406, United States of America",,29406,,North Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29409,Unique,Charleston,32.776474,-79.931053,32.7963981,-79.9612293,"Charleston, SC 29409, United States of America",,29409,,Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29424,Unique,Charleston,32.776474,-79.931053,32.7843243,-79.9382138,"Charleston, SC 29424, United States of America",,29424,,Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29425,Unique,Charleston,32.776474,-79.931053,32.78456639,-79.94985499,"Charleston, SC 29425, United States of America",,29425,,Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29402,PO Box,Charleston,32.776474,-79.931053,,,,,,,,,,,,,,,,,
+29413,PO Box,Charleston,32.776474,-79.931053,,,,,,,,,,,,,,,,,
+29416,PO Box,Charleston,32.776474,-79.931053,32.9219966,-80.0330282,"North Charleston, SC 29416, United States of America",,29416,,North Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29417,PO Box,Charleston,32.776474,-79.931053,,,,,,,,,,,,,,,,,
+29422,PO Box,Charleston,32.776474,-79.931053,32.749754,-79.9735013,"Charleston, SC 29422, United States of America",,29422,,Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29423,PO Box,Charleston,32.776474,-79.931053,32.977043,-80.069062,"North Charleston, SC 29423, United States of America",,29423,,North Charleston,Charleston County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37421,Standard,Chattanooga,35.045631,-85.309677,35.0257156,-85.14880547,"Chattanooga, TN 37421, United States of America",,37421,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37411,Standard,Chattanooga,35.045631,-85.309677,35.02742863,-85.23506539,"Chattanooga, TN 37411, United States of America",,37411,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37406,Standard,Chattanooga,35.045631,-85.309677,35.06636325,-85.24669868,"Chattanooga, TN 37406, United States of America",,37406,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37415,Standard,Chattanooga,35.045631,-85.309677,35.14762061,-85.27427087,"Chattanooga, TN 37415, United States of America",,37415,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37404,Standard,Chattanooga,35.045631,-85.309677,35.03106305,-85.27127233,"Chattanooga, TN 37404, United States of America",,37404,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37405,Standard,Chattanooga,35.045631,-85.309677,35.07953823,-85.30734477,"Chattanooga, TN 37405, United States of America",,37405,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37416,Standard,Chattanooga,35.045631,-85.309677,35.09514266,-85.18093511,"Chattanooga, TN 37416, United States of America",,37416,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37407,Standard,Chattanooga,35.045631,-85.309677,35.00240054,-85.28577742,"Chattanooga, TN 37407, United States of America",,37407,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37403,Standard,Chattanooga,35.045631,-85.309677,35.04492362,-85.29897098,"Chattanooga, TN 37403, United States of America",,37403,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37419,Standard,Chattanooga,35.045631,-85.309677,35.06197101,-85.38257228,"Marion County, TN 37419, United States of America",,37419,,,Marion County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37402,Standard,Chattanooga,35.045631,-85.309677,35.04556418,-85.31165717,"Chattanooga, TN 37402, United States of America",,37402,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37410,Standard,Chattanooga,35.045631,-85.309677,35.01457807,-85.29909939,"Chattanooga, TN 37410, United States of America",,37410,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37409,Standard,Chattanooga,35.045631,-85.309677,35.00176519,-85.32985005,"Chattanooga, TN 37409, United States of America",,37409,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37408,Standard,Chattanooga,35.045631,-85.309677,35.0340497,-85.30598665,"Chattanooga, TN 37408, United States of America",,37408,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37412,Standard,Chattanooga,35.045631,-85.309677,34.99753413,-85.23585681,"East Ridge, TN 37412, United States of America",,37412,,East Ridge,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37450,Standard,Chattanooga,35.045631,-85.309677,35.04892805,-85.31205805,"Chattanooga, TN 37450, United States of America",,37450,,Chattanooga,Hamilton County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37401,PO Box,Chattanooga,35.045631,-85.309677,,,,,,,,,,,,,,,,,
+37414,PO Box,Chattanooga,35.045631,-85.309677,,,,,,,,,,,,,,,,,
+37422,PO Box,Chattanooga,35.045631,-85.309677,,,,,,,,,,,,,,,,,
+37424,PO Box,Chattanooga,35.045631,-85.309677,,,,,,,,,,,,,,,,,
+29205,Standard,Columbia,34.00071,-81.034813,33.99114324,-81.00062892,"Columbia, SC 29205, United States of America",,29205,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29203,Standard,Columbia,34.00071,-81.034813,34.06450977,-81.02400682,"Columbia, SC 29203, United States of America",,29203,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29209,Standard,Columbia,34.00071,-81.034813,33.96550315,-80.93790128,"Columbia, SC 29209, United States of America",,29209,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29204,Standard,Columbia,34.00071,-81.034813,34.02306376,-81.00555721,"Columbia, SC 29204, United States of America",,29204,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29201,Standard,Columbia,34.00071,-81.034813,33.99995346,-81.03500312,"Columbia, SC 29201, United States of America",,29201,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29210,Standard,Columbia,34.00071,-81.034813,34.04088711,-81.11189843,"Richland County, SC 29210, United States of America",,29210,,,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29206,Standard,Columbia,34.00071,-81.034813,34.0283487,-80.95839012,"Forest Acres, SC 29206, United States of America",,29206,,Forest Acres,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29212,Standard,Columbia,34.00071,-81.034813,34.07601743,-81.18265655,"Irmo, SC 29212, United States of America",,29212,,Irmo,Lexington County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29223,Standard,Columbia,34.00071,-81.034813,34.09547873,-80.91960495,"Dentsville (undefined), SC 29223, United States of America",,29223,Dentsville,,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29229,Standard,Columbia,34.00071,-81.034813,34.14562141,-80.89427433,"Richland County, SC 29229, United States of America",,29229,,,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29222,Standard,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29225,Unique,Columbia,34.00071,-81.034813,33.98790399,-81.02937834,"Columbia, SC 29225, United States of America",,29225,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29208,Unique,Columbia,34.00071,-81.034813,33.99417882,-81.03072677,"Columbia, SC 29208, United States of America",,29208,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29214,Unique,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29215,Unique,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29216,Unique,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29217,Unique,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29218,Unique,Columbia,34.00071,-81.034813,34.059078,-80.5457799,"Sumter County, SC 29218, United States of America",,29218,,,Sumter County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29219,Unique,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29220,Unique,Columbia,34.00071,-81.034813,34.0070459,-81.03342295,"Columbia, SC 29220, United States of America",,29220,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29226,Unique,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29227,Unique,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29207,PO Box,Columbia,34.00071,-81.034813,34.00740757,-80.93433943,"Columbia, SC 29207, United States of America",,29207,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29202,PO Box,Columbia,34.00071,-81.034813,33.9911766,-81.0309366,"Columbia, SC 29202, United States of America",,29202,,Columbia,Richland County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29211,PO Box,Columbia,34.00071,-81.034813,34.0004,-81.0344,,,,,,,,,,,,,,,
+29221,PO Box,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29224,PO Box,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29228,PO Box,Columbia,34.00071,-81.034813,34.0036,-81.0344,,,,,,,,,,,,,,,
+29230,PO Box,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29240,PO Box,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29250,PO Box,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29260,PO Box,Columbia,34.00071,-81.034813,34.17174103,-82.38989843,"Abbeville, SC 29260, United States of America",,29260,,Abbeville,Abbeville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29290,PO Box,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+29292,,Columbia,34.00071,-81.034813,34.0009,-81.0353,,,,,,,,,,,,,,,
+27410,Standard,Greensboro,36.0726,-79.792,36.11435684,-79.88117222,"Greensboro, NC 27410, United States of America",,27410,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27407,Standard,Greensboro,36.0726,-79.792,36.03183445,-79.87160502,"Greensboro, NC 27407, United States of America",,27407,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27405,Standard,Greensboro,36.0726,-79.792,36.10539465,-79.75717799,"Greensboro, NC 27405, United States of America",,27405,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27406,Standard,Greensboro,36.0726,-79.792,36.02000211,-79.77589867,"Guilford County, NC 27406, United States of America",,27406,,,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27455,Standard,Greensboro,36.0726,-79.792,36.15649122,-79.81400834,"Greensboro, NC 27455, United States of America",,27455,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27401,Standard,Greensboro,36.0726,-79.792,36.07104578,-79.77899818,"Greensboro, NC 27401, United States of America",,27401,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27403,Standard,Greensboro,36.0726,-79.792,36.06513539,-79.82128485,"Greensboro, NC 27403, United States of America",,27403,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27408,Standard,Greensboro,36.0726,-79.792,36.0984909,-79.82889042,"Greensboro, NC 27408, United States of America",,27408,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27409,Standard,Greensboro,36.0726,-79.792,36.07625195,-79.93343353,"Greensboro, NC 27409, United States of America",,27409,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27395,Standard,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+27495,Standard,Greensboro,36.0726,-79.792,36.0444,-79.8596,,,,,,,,,,,,,,,
+27411,Unique,Greensboro,36.0726,-79.792,36.0781271,-79.7705469,"Greensboro, NC 27411, United States of America",,27411,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27412,Unique,Greensboro,36.0726,-79.792,36.07151479,-79.80701396,"Greensboro, NC 27412, United States of America",,27412,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27413,Unique,Greensboro,36.0726,-79.792,36.06992,-79.81084,,,,,,,,,,,,,,,
+27480,Unique,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+27497,Unique,Greensboro,36.0726,-79.792,36.0786,-79.95425,,,,,,,,,,,,,,,
+27498,Unique,Greensboro,36.0726,-79.792,36.0726,-79.7925,,,,,,,,,,,,,,,
+27499,Unique,Greensboro,36.0726,-79.792,36.0726,-79.7925,,,,,,,,,,,,,,,
+27402,PO Box,Greensboro,36.0726,-79.792,36.07080135,-79.80060922,"Greensboro, NC 27402, United States of America",,27402,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27404,PO Box,Greensboro,36.0726,-79.792,36.089129,-79.691014,"Guilford County, NC 27404, United States of America",,27404,,,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27415,PO Box,Greensboro,36.0726,-79.792,36.1480942,-79.7283801,"Greensboro, NC 27415, United States of America",,27415,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27416,PO Box,Greensboro,36.0726,-79.792,35.996129,-79.809088,"Guilford County, NC 27416, United States of America",,27416,,,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27417,PO Box,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+27419,PO Box,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+27420,PO Box,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+27425,PO Box,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+27427,PO Box,Greensboro,36.0726,-79.792,36.0392524,-79.8385951,"Greensboro, NC 27427, United States of America",,27427,,Greensboro,Guilford County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27429,PO Box,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+27435,PO Box,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+27438,PO Box,Greensboro,36.0726,-79.792,,,,,,,,,,,,,,,,,
+29607,Standard,Greenville,34.8526,-82.394,34.83067803,-82.34679325,"Greenville, SC 29607, United States of America",,29607,,Greenville,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29605,Standard,Greenville,34.8526,-82.394,34.81141863,-82.39029373,"Greenville, SC 29605, United States of America",,29605,,Greenville,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29601,Standard,Greenville,34.8526,-82.394,34.84691964,-82.40037891,"Greenville, SC 29601, United States of America",,29601,,Greenville,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29609,Standard,Greenville,34.8526,-82.394,34.87704301,-82.38911443,"Greenville, SC 29609, United States of America",,29609,,Greenville,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29615,Standard,Greenville,34.8526,-82.394,34.86061439,-82.33037969,"Greenville County, SC 29615, United States of America",,29615,,,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29611,Standard,Greenville,34.8526,-82.394,34.84345531,-82.43746878,"Greenville County, SC 29611, United States of America",,29611,,,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29617,Standard,Greenville,34.8526,-82.394,34.89733227,-82.44897204,"Greenville County, SC 29617, United States of America",,29617,,,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29614,Unique,Greenville,34.8526,-82.394,34.87142076,-82.36204862,"Greenville, SC 29614, United States of America",,29614,,Greenville,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29613,Unique,Greenville,34.8526,-82.394,34.92322928,-82.43752523,"Travelers Rest, SC 29613, United States of America",,29613,,Travelers Rest,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29698,Unique,Greenville,34.8526,-82.394,34.943558,-82.326605,"Greenville County, SC 29698, United States of America",,29698,,,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29602,PO Box,Greenville,34.8526,-82.394,34.8545785,-82.4080156,"Greenville, SC 29602, United States of America",,29602,,Greenville,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29603,PO Box,Greenville,34.8526,-82.394,34.8496095,-82.39611969,"Greenville, SC 29603, United States of America",,29603,,Greenville,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29604,PO Box,Greenville,34.8526,-82.394,,,,,,,,,,,,,,,,,
+29606,PO Box,Greenville,34.8526,-82.394,,,,,,,,,,,,,,,,,
+29608,PO Box,Greenville,34.8526,-82.394,,,,,,,,,,,,,,,,,
+29610,PO Box,Greenville,34.8526,-82.394,34.932215,-82.479382,"Greenville County, SC 29610, United States of America",,29610,,,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+29612,PO Box,Greenville,34.8526,-82.394,,,,,,,,,,,,,,,,,
+29616,PO Box,Greenville,34.8526,-82.394,34.8539705,-82.3292628,"Greenville, SC 29616, United States of America",,29616,,Greenville,Greenville County,South Carolina,SC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37921,Standard,Knoxville,35.9606,-83.9207,35.97774175,-83.99153112,"Knoxville, TN 37921, United States of America",,37921,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37917,Standard,Knoxville,35.9606,-83.9207,35.99464709,-83.91810665,"Knoxville, TN 37917, United States of America",,37917,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37919,Standard,Knoxville,35.9606,-83.9207,35.92250567,-84.00633612,"Bearden (Knoxville), TN 37919, United States of America",,37919,Bearden,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37912,Standard,Knoxville,35.9606,-83.9207,35.99834004,-83.98758389,"Knoxville, TN 37912, United States of America",,37912,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37920,Standard,Knoxville,35.9606,-83.9207,35.92382893,-83.89754458,"Knoxville, TN 37920, United States of America",,37920,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37918,Standard,Knoxville,35.9606,-83.9207,36.05175469,-83.92636249,"Knoxville, TN 37918, United States of America",,37918,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37909,Standard,Knoxville,35.9606,-83.9207,35.94601686,-84.02248205,"Knoxville, TN 37909, United States of America",,37909,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37914,Standard,Knoxville,35.9606,-83.9207,35.99175356,-83.8495882,"Holston Hills (Knoxville), TN 37914, United States of America",,37914,Holston Hills,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37916,Standard,Knoxville,35.9606,-83.9207,35.9561784,-83.93245904,"Knoxville, TN 37916, United States of America",,37916,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37915,Standard,Knoxville,35.9606,-83.9207,35.97182386,-83.90215394,"Knoxville, TN 37915, United States of America",,37915,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37923,Standard,Knoxville,35.9606,-83.9207,35.92586588,-84.07841135,"Cedar Bluff (undefined), TN 37923, United States of America",,37923,Cedar Bluff,,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37902,Standard,Knoxville,35.9606,-83.9207,35.96434092,-83.9196707,"Knoxville, TN 37902, United States of America",,37902,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37922,Standard,Knoxville,35.9606,-83.9207,35.87400742,-84.09820872,"Knox County, TN 37922, United States of America",,37922,,,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37924,Standard,Knoxville,35.9606,-83.9207,36.02764785,-83.8112759,"Knox County, TN 37924, United States of America",,37924,,,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37929,Standard,Knoxville,35.9606,-83.9207,35.962203,-83.916304,"Knoxville, TN 37929, United States of America",,37929,,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37931,Standard,Knoxville,35.9606,-83.9207,35.97294543,-84.11690061,"Karns (undefined), TN 37931, United States of America",,37931,Karns,,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37932,Standard,Knoxville,35.9606,-83.9207,35.92733758,-84.16310842,"Knox County, TN 37932, United States of America",,37932,,,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37938,Standard,Knoxville,35.9606,-83.9207,36.10049594,-83.94473319,"Knox County, TN 37938, United States of America",,37938,,,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37990,Unique,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+37995,Unique,Knoxville,35.9606,-83.9207,35.9609,-83.9206,,,,,,,,,,,,,,,
+37996,Unique,Knoxville,35.9606,-83.9207,35.95199802,-83.93268595,"University of Tennessee (Knoxville), TN 37996, United States of America",,37996,University of Tennessee,Knoxville,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37997,Unique,Knoxville,35.9606,-83.9207,35.9609,-83.9206,,,,,,,,,,,,,,,
+37998,Unique,Knoxville,35.9606,-83.9207,35.93605952,-83.75017597,"Knox County, TN 37998, United States of America",,37998,,,Knox County,Tennessee,TN,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+37901,PO Box,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+37927,PO Box,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+37928,PO Box,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+37930,PO Box,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+37933,PO Box,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+37939,PO Box,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+37940,PO Box,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+37950,PO Box,Knoxville,35.9606,-83.9207,,,,,,,,,,,,,,,,,
+40502,Standard,Lexington,38.0406,-84.5037,38.02916147,-84.4897426,"Lexington, KY 40502, United States of America",,40502,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40503,Standard,Lexington,38.0406,-84.5037,38.01264522,-84.52795296,"Lexington, KY 40503, United States of America",,40503,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40504,Standard,Lexington,38.0406,-84.5037,38.03813287,-84.53844751,"Gardenside (Lexington), KY 40504, United States of America",,40504,Gardenside,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40505,Standard,Lexington,38.0406,-84.5037,38.05391004,-84.46158966,"Meadows/Loudon (Lexington), KY 40505, United States of America",,40505,Meadows/Loudon,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40507,Standard,Lexington,38.0406,-84.5037,38.04445807,-84.49561131,"Central Business District (Lexington), KY 40507, United States of America",,40507,Central Business District,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40508,Standard,Lexington,38.0406,-84.5037,38.04369503,-84.49954235,"Lexington, KY 40508, United States of America",,40508,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40509,Standard,Lexington,38.0406,-84.5037,38.0092449,-84.42797028,"Lexington, KY 40509, United States of America",,40509,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40510,Standard,Lexington,38.0406,-84.5037,38.06900745,-84.59070534,"Lexington, KY 40510, United States of America",,40510,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40511,Standard,Lexington,38.0406,-84.5037,38.10523919,-84.49667724,"Lexington, KY 40511, United States of America",,40511,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40513,Standard,Lexington,38.0406,-84.5037,38.01539594,-84.57280602,"Beaumont (Lexington), KY 40513, United States of America",,40513,Beaumont,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40514,Standard,Lexington,38.0406,-84.5037,37.97821896,-84.55775808,"Lexington, KY 40514, United States of America",,40514,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40515,Standard,Lexington,38.0406,-84.5037,37.9134158,-84.41601668,"Lexington, KY 40515, United States of America",,40515,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40516,Standard,Lexington,38.0406,-84.5037,38.06707611,-84.3661237,"Lexington, KY 40516, United States of America",,40516,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40517,Standard,Lexington,38.0406,-84.5037,37.98089723,-84.49636956,"Lexington, KY 40517, United States of America",,40517,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40506,Unique,Lexington,38.0406,-84.5037,38.03330445,-84.50364322,"University of Kentucky (Lexington), KY 40506, United States of America",,40506,University of Kentucky,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40526,Unique,Lexington,38.0406,-84.5037,38.03325344,-84.50265548,"University of Kentucky (Lexington), KY 40526, United States of America",,40526,University of Kentucky,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40536,Unique,Lexington,38.0406,-84.5037,38.03041435,-84.50803535,"University of Kentucky (Lexington), KY 40536, United States of America",,40536,University of Kentucky,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40546,Unique,Lexington,38.0406,-84.5037,38.0285921,-84.50866,"University of Kentucky (Lexington), KY 40546, United States of America",,40546,University of Kentucky,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40550,Unique,Lexington,38.0406,-84.5037,38.0494,-84.5004,,,,,,,,,,,,,,,
+40598,Unique,Lexington,38.0406,-84.5037,38.0494,-84.5004,,,,,,,,,,,,,,,
+40512,PO Box,Lexington,38.0406,-84.5037,38.0752632,-84.4923448,"Lexington, KY 40512, United States of America",,40512,,Lexington,Fayette County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40522,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40523,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40524,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40533,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40544,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40555,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40574,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40575,PO Box,Lexington,38.0406,-84.5037,37.8157629,-84.154717,"Madison County, KY 40575, United States of America",,40575,,,Madison County,Kentucky,KY,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+40576,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40577,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40578,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40579,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40580,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40581,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40582,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40583,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40588,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+40591,PO Box,Lexington,38.0406,-84.5037,,,,,,,,,,,,,,,,,
+27610,Standard,Raleigh,35.7796,-78.6382,35.76423004,-78.58380557,"Raleigh, NC 27610, United States of America",,27610,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27604,Standard,Raleigh,35.7796,-78.6382,35.8179269,-78.58522293,"Raleigh, NC 27604, United States of America",,27604,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27616,Standard,Raleigh,35.7796,-78.6382,35.86753469,-78.54619229,"Raleigh, NC 27616, United States of America",,27616,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27615,Standard,Raleigh,35.7796,-78.6382,35.89187635,-78.62887696,"Raleigh, NC 27615, United States of America",,27615,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27606,Standard,Raleigh,35.7796,-78.6382,35.76219169,-78.7230011,"Raleigh, NC 27606, United States of America",,27606,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27612,Standard,Raleigh,35.7796,-78.6382,35.84403742,-78.6992,"Raleigh, NC 27612, United States of America",,27612,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27609,Standard,Raleigh,35.7796,-78.6382,35.83987308,-78.62931008,"Raleigh, NC 27609, United States of America",,27609,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27613,Standard,Raleigh,35.7796,-78.6382,35.92585045,-78.71267752,"Wake County, NC 27613, United States of America",,27613,,,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27607,Standard,Raleigh,35.7796,-78.6382,35.8087642,-78.70147931,"Raleigh, NC 27607, United States of America",,27607,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27614,Standard,Raleigh,35.7796,-78.6382,35.94837659,-78.62958982,"Wake County, NC 27614, United States of America",,27614,,,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27603,Standard,Raleigh,35.7796,-78.6382,35.71257461,-78.66138619,"Wake County, NC 27603, United States of America",,27603,,,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27617,Standard,Raleigh,35.7796,-78.6382,35.90903595,-78.7687574,"Raleigh, NC 27617, United States of America",,27617,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27608,Standard,Raleigh,35.7796,-78.6382,35.80869626,-78.63958935,"Raleigh, NC 27608, United States of America",,27608,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27601,Standard,Raleigh,35.7796,-78.6382,35.77807349,-78.63423735,"Raleigh, NC 27601, United States of America",,27601,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27605,Standard,Raleigh,35.7796,-78.6382,35.78931022,-78.65401733,"Raleigh, NC 27605, United States of America",,27605,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27634,Unique,Raleigh,35.7796,-78.6382,35.7719,-78.6388,,,,,,,,,,,,,,,
+27635,Unique,Raleigh,35.7796,-78.6382,35.7719,-78.6388,,,,,,,,,,,,,,,
+27640,Unique,Raleigh,35.7796,-78.6382,35.7719,-78.6388,,,,,,,,,,,,,,,
+27656,Unique,Raleigh,35.7796,-78.6382,35.7719,-78.6388,,,,,,,,,,,,,,,
+27668,Unique,Raleigh,35.7796,-78.6382,35.7719,-78.6388,,,,,,,,,,,,,,,
+27690,Unique,Raleigh,35.7796,-78.6382,35.74427,-81.573714,"Valdese, NC 27690, United States of America",,27690,,Valdese,Burke County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27695,Unique,Raleigh,35.7796,-78.6382,35.78352899,-78.67458099,"Raleigh, NC 27695, United States of America",,27695,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27697,Unique,Raleigh,35.7796,-78.6382,35.779776,-78.622538,"Raleigh, NC 27697, United States of America",,27697,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27698,Unique,Raleigh,35.7796,-78.6382,35.7719,-78.6388,,,,,,,,,,,,,,,
+27699,Unique,Raleigh,35.7796,-78.6382,35.7719,-78.6388,,,,,,,,,,,,,,,
+27602,PO Box,Raleigh,35.7796,-78.6382,35.7852623,-78.6006903,"Raleigh, NC 27602, United States of America",,27602,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27611,PO Box,Raleigh,35.7796,-78.6382,35.784375,-78.621459,"Raleigh, NC 27611, United States of America",,27611,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27619,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27620,PO Box,Raleigh,35.7796,-78.6382,35.763906,-78.548164,"Raleigh, NC 27620, United States of America",,27620,,Raleigh,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27621,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27622,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27623,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27624,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27625,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27626,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27627,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27628,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27629,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27636,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27650,PO Box,Raleigh,35.7796,-78.6382,35.8627992,-78.8301337,"Morrisville, NC 27650, United States of America",,27650,,Morrisville,Wake County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27658,PO Box,Raleigh,35.7796,-78.6382,35.633936,-81.303397,"Catawba County, NC 27658, United States of America",,27658,,,Catawba County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27661,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27675,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+27676,PO Box,Raleigh,35.7796,-78.6382,,,,,,,,,,,,,,,,,
+23220,Standard,Richmond,37.5407,-77.436,37.55035821,-77.45832677,"Richmond, VA 23220, United States of America",,23220,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23225,Standard,Richmond,37.5407,-77.436,37.51675407,-77.5053397,"Richmond, VA 23225, United States of America",,23225,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23224,Standard,Richmond,37.5407,-77.436,37.49598561,-77.47220977,"Richmond, VA 23224, United States of America",,23224,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23223,Standard,Richmond,37.5407,-77.436,37.55023033,-77.38913637,"Henrico County, VA 23223, United States of America",,23223,,,Henrico County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23222,Standard,Richmond,37.5407,-77.436,37.57566769,-77.42474317,"Richmond, VA 23222, United States of America",,23222,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23221,Standard,Richmond,37.5407,-77.436,37.55970817,-77.48325133,"Richmond, VA 23221, United States of America",,23221,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23234,Standard,Richmond,37.5407,-77.436,37.44857283,-77.47630413,"Chesterfield County, VA 23234, United States of America",,23234,,,Chesterfield County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23227,Standard,Richmond,37.5407,-77.436,37.60846907,-77.44584154,"Henrico County, VA 23227, United States of America",,23227,,,Henrico County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23226,Standard,Richmond,37.5407,-77.436,37.58303329,-77.51686019,"Henrico County, VA 23226, United States of America",,23226,,,Henrico County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23235,Standard,Richmond,37.5407,-77.436,37.51073651,-77.56673822,"Bon Air, VA 23235, United States of America",,23235,,Bon Air,Chesterfield County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23219,Standard,Richmond,37.5407,-77.436,37.54517755,-77.4320167,"Richmond, VA 23219, United States of America",,23219,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23230,Standard,Richmond,37.5407,-77.436,37.58454363,-77.49121726,"Henrico County, VA 23230, United States of America",,23230,,,Henrico County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23232,Standard,Richmond,37.5407,-77.436,37.56186664,-77.44544362,"Richmond, VA 23232, United States of America",,23232,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23236,Standard,Richmond,37.5407,-77.436,37.47587491,-77.58542046,"Chesterfield County, VA 23236, United States of America",,23236,,,Chesterfield County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23237,Standard,Richmond,37.5407,-77.436,37.40216622,-77.4589064,"Chesterfield County, VA 23237, United States of America",,23237,,,Chesterfield County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23240,Standard,Richmond,37.5407,-77.436,,,,,,,,,,,,,,,,,
+23250,Standard,Richmond,37.5407,-77.436,37.50848498,-77.32455508,"Henrico County, VA 23250, United States of America",,23250,,,Henrico County,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23298,Standard,Richmond,37.5407,-77.436,37.5425982,-77.42976803,"Richmond, VA 23298, United States of America",,23298,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23173,Unique,Richmond,37.5407,-77.436,37.57649618,-77.54043978,"Richmond, VA 23173, United States of America",,23173,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23249,Unique,Richmond,37.5407,-77.436,37.4963453,-77.4656427,"Richmond, VA 23249, United States of America",,23249,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23269,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23274,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23276,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23278,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23279,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23282,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23286,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23289,Unique,Richmond,37.5407,-77.436,37.5436,-77.4487,,,,,,,,,,,,,,,
+23290,Unique,Richmond,37.5407,-77.436,37.5436,-77.4487,,,,,,,,,,,,,,,
+23291,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23292,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23293,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23295,Unique,Richmond,37.5407,-77.436,37.5537,-77.4609,,,,,,,,,,,,,,,
+23297,Unique,Richmond,37.5407,-77.436,37.4528,-77.4743,,,,,,,,,,,,,,,
+23218,PO Box,Richmond,37.5407,-77.436,,,,,,,,,,,,,,,,,
+23241,PO Box,Richmond,37.5407,-77.436,,,,,,,,,,,,,,,,,
+23260,PO Box,Richmond,37.5407,-77.436,,,,,,,,,,,,,,,,,
+23261,PO Box,Richmond,37.5407,-77.436,,,,,,,,,,,,,,,,,
+23284,PO Box,Richmond,37.5407,-77.436,37.54697987,-77.45275207,"Richmond, VA 23284, United States of America",,23284,,Richmond,,Virginia,VA,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+23285,PO Box,Richmond,37.5407,-77.436,,,,,,,,,,,,,,,,,
+32304,Standard,Tallahassee,30.4382,-84.2806,30.44923368,-84.31416162,"Tallahassee, FL 32304, United States of America",,32304,,Tallahassee,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32303,Standard,Tallahassee,30.4382,-84.2806,30.46815368,-84.29699507,"Tallahassee, FL 32303, United States of America",,32303,,Tallahassee,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32301,Standard,Tallahassee,30.4382,-84.2806,30.43540849,-84.25390758,"Tallahassee, FL 32301, United States of America",,32301,,Tallahassee,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32308,Standard,Tallahassee,30.4382,-84.2806,30.46876416,-84.23700773,"Tallahassee, FL 32308, United States of America",,32308,,Tallahassee,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32309,Standard,Tallahassee,30.4382,-84.2806,30.5296679,-84.18566284,"Tallahassee, FL 32309, United States of America",,32309,,Tallahassee,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32312,Standard,Tallahassee,30.4382,-84.2806,30.54103236,-84.26057443,"Leon County, FL 32312, United States of America",,32312,,,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32310,Standard,Tallahassee,30.4382,-84.2806,30.41840761,-84.37308948,"Leon County, FL 32310, United States of America",,32310,,,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32311,Standard,Tallahassee,30.4382,-84.2806,30.40439454,-84.20348907,"Leon County, FL 32311, United States of America",,32311,,,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32305,Standard,Tallahassee,30.4382,-84.2806,30.34024703,-84.27096916,"Leon County, FL 32305, United States of America",,32305,,,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32317,Standard,Tallahassee,30.4382,-84.2806,30.46574236,-84.15575896,"Leon County, FL 32317, United States of America",,32317,,,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32306,Unique,Tallahassee,30.4382,-84.2806,30.44245542,-84.29911749,"Tallahassee, FL 32306, United States of America",,32306,,Tallahassee,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32307,Unique,Tallahassee,30.4382,-84.2806,30.42378757,-84.28790863,"Tallahassee, FL 32307, United States of America",,32307,,Tallahassee,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32313,Unique,Tallahassee,30.4382,-84.2806,30.4016998,-84.29691,"Tallahassee, FL 32313, United States of America",,32313,,Tallahassee,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32395,Unique,Tallahassee,30.4382,-84.2806,30.315087,-84.2503,"Leon County, FL 32395, United States of America",,32395,,,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32399,Unique,Tallahassee,30.4382,-84.2806,30.40070582,-84.2415335,"Leon County, FL 32399, United States of America",,32399,,,Leon County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+32302,PO Box,Tallahassee,30.4382,-84.2806,,,,,,,,,,,,,,,,,
+32314,PO Box,Tallahassee,30.4382,-84.2806,,,,,,,,,,,,,,,,,
+32315,PO Box,Tallahassee,30.4382,-84.2806,,,,,,,,,,,,,,,,,
+32316,PO Box,Tallahassee,30.4382,-84.2806,,,,,,,,,,,,,,,,,
+32318,PO Box,Tallahassee,30.4382,-84.2806,29.799193,-84.920298,"Franklin County, FL 32318, United States of America",,32318,,,Franklin County,Florida,FL,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27106,Standard,Winston Salem,36.0999,-80.2442,36.13855901,-80.31382343,"Winston-Salem, NC 27106, United States of America",,27106,,Winston-Salem,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27105,Standard,Winston Salem,36.0999,-80.2442,36.14673728,-80.23974288,"Winston-Salem, NC 27105, United States of America",,27105,,Winston-Salem,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27107,Standard,Winston Salem,36.0999,-80.2442,36.03147324,-80.18806261,"Forsyth County, NC 27107, United States of America",,27107,,,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27103,Standard,Winston Salem,36.0999,-80.2442,36.06519762,-80.30542259,"Winston-Salem, NC 27103, United States of America",,27103,,Winston-Salem,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27104,Standard,Winston Salem,36.0999,-80.2442,36.09300249,-80.32176795,"Winston-Salem, NC 27104, United States of America",,27104,,Winston-Salem,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27127,Standard,Winston Salem,36.0999,-80.2442,36.03649151,-80.26334697,"Winston-Salem, NC 27127, United States of America",,27127,,Winston-Salem,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27101,Standard,Winston Salem,36.0999,-80.2442,36.10172412,-80.22945011,"Winston-Salem, NC 27101, United States of America",,27101,,Winston-Salem,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27109,Standard,Winston Salem,36.0999,-80.2442,36.16942367,-80.2488483,"Winston-Salem, NC 27109, United States of America",,27109,,Winston-Salem,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27110,Unique,Winston Salem,36.0999,-80.2442,36.0895153,-80.2239737,"Winston-Salem, NC 27110, United States of America",,27110,,Winston-Salem,Forsyth County,North Carolina,NC,United States,us,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
+27151,Unique,Winston Salem,36.0999,-80.2442,,,,,,,,,,,,,,,,,
+27156,Unique,Winston Salem,36.0999,-80.2442,,,,,,,,,,,,,,,,,
