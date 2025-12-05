@@ -10,6 +10,6 @@ This course uses Python programming and Jupyter Notebooks along with real-world 
 
 Other resources:
 - [PyEarth](https://maggieavery.github.io/PyEarth_EPS88_jupyterbook/intro.html)
--[Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/)
+- [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/)
 
 
